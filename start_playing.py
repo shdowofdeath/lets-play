@@ -1,6 +1,6 @@
 import string, random ,time , datetime
 print('Welcome to start playing')
-print('Elay A')
+print('Elay Aizen')
 print("Ron")
 print('Elizabeth')
 def start_playing() :

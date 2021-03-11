@@ -1,6 +1,6 @@
 import string, random ,time , datetime
 print('Welcome to start playing')
-print('Elay')
+print('Elay A')
 print('Elizabeth')
 def start_playing() :
     generated_target = string.ascii_lowercase + string.digits + string.ascii_uppercase + ' .,!?;:'
